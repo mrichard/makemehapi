@@ -1,0 +1,18 @@
+{
+  "name": "makemehapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello_hapi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "boom": "^2.8.0",
+    "handlebars": "^3.0.3",
+    "hapi": "^8.8.1",
+    "joi": "^6.6.1",
+    "rot13-transform": "^1.0.0"
+  }
+}
